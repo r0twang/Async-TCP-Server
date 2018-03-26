@@ -1,0 +1,9 @@
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.exe.config
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.exe
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.pdb
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.Form1.resources
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.Properties.Resources.resources
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.csproj.GenerateResource.Cache
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.exe
+C:\Dropzone\gym\asynctcpserverconnect\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.pdb
